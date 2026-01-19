@@ -1,11 +1,6 @@
-<!-- Matrix Rain Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</div>
-
 <!-- Name Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:8B5CF6,100:06B6D4&height=120&text=Max&fontSize=70&fontColor=A855F7&animation=fadeIn&stroke=06B6D4&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&text=Max&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=A855F7&strokeWidth=2"/>
 </div>
 
 <!-- Typing Animation -->
@@ -19,10 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=werzingerma&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
 </div>
 
-<!-- Matrix Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</div>
+<br/>
 
 <!-- Terminal-Style About Me -->
 <h2 align="center">
@@ -53,10 +45,7 @@ while (alive) {
 }
 ```
 
-<!-- Matrix Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</div>
+<br/>
 
 <!-- Tech Stack -->
 <h2 align="center">
@@ -84,10 +73,7 @@ while (alive) {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman&theme=dark&perline=6" />
 </div>
 
-<!-- Matrix Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</div>
+<br/>
 
 <!-- GitHub Stats -->
 <h2 align="center">
@@ -100,7 +86,9 @@ while (alive) {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werzingerma&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
-<!-- Matrix Footer -->
+<br/>
+
+<!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer"/>
 </div>
