@@ -1,6 +1,11 @@
-<!-- Matrix-Style Header -->
+<!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&text=Max&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=A855F7&strokeWidth=2"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+</div>
+
+<!-- Name Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:8B5CF6,100:06B6D4&height=120&text=Max&fontSize=70&fontColor=A855F7&animation=fadeIn&stroke=06B6D4&strokeWidth=1"/>
 </div>
 
 <!-- Typing Animation -->
@@ -14,14 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=werzingerma&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
 </div>
 
-<br/>
-
-<!-- Matrix Rain Divider GIF -->
+<!-- Matrix Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
 </div>
-
-<br/>
 
 <!-- Terminal-Style About Me -->
 <h2 align="center">
@@ -52,7 +53,10 @@ while (alive) {
 }
 ```
 
-<br/>
+<!-- Matrix Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+</div>
 
 <!-- Tech Stack -->
 <h2 align="center">
@@ -80,7 +84,10 @@ while (alive) {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman&theme=dark&perline=6" />
 </div>
 
-<br/>
+<!-- Matrix Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+</div>
 
 <!-- GitHub Stats -->
 <h2 align="center">
@@ -93,29 +100,7 @@ while (alive) {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werzingerma&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
-<br/>
-
+<!-- Matrix Footer -->
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=werzingerma&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6B7280" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=werzingerma&bg_color=0d1117&color=A855F7&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=werzingerma&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
 </div>
