@@ -78,19 +78,6 @@ while (alive) {
 
 <br/>
 
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"/>
-  ~/github-stats
-</h2>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werzingerma&show_icons=true&hide_border=true&title_color=A855F7&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werzingerma&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<br/>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer"/>
