@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%3E+Fullstack+Developer+from+Germany;%3E+Java+%7C+TypeScript+%7C+Python+%7C+Swift;%3E+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%3E+AI+%26+Data+Science+Student+from+Germany;%3E+Python+%7C+TypeScript+%7C+Java+%7C+Rust+%7C+TypeScript;%3E+print(%22Hello+World%22);" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,10 +30,10 @@
 
 const developer = {
     pronouns: "he" | "him",
-    code: ["Java", "TypeScript", "Python", "Kotlin", "Swift", "C#"],
-    focus: "Swift & iOS Development",
-    architecture: ["microservices", "event-driven", "monolithic"],
-    currentProject: "Building something awesome",
+    code: ["Python", "TypeScript", "Java", "Rust", "JavaScript", "C++", "C#"],
+    focus: "Medical AI & Data Science",
+    interests: ["microservices", "event-driven", "NLP", "Computer Vision", "Medical AI"],
+    currentProject: "Medical AI research",
     funFact: "It's still magic even if you know how it's done"
 };
 
@@ -55,19 +55,22 @@ while (alive) {
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,kotlin,swift,cs,cpp,php&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,rust,cs,cpp&theme=dark&perline=7" />
+
+  <h4>AI & Data Science</h4>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=2" />
 
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,html,css,sass,bootstrap,tailwind&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=angular,react,svelte,html,css,sass,bootstrap&theme=dark&perline=7" />
 
   <h4>Backend & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet,express,graphql&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=spring,django,express,graphql&theme=dark&perline=4" />
 
   <h4>Cloud & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,nginx,linux,bash&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,nginx,linux,bash&theme=dark&perline=7" />
 
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3" />
 
   <h4>Tools</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman&theme=dark&perline=6" />
